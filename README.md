@@ -2,6 +2,7 @@
 - フリマアプリのクローンサイト
 ## URL
 フリマアプリ：http://54.250.198.16/
+
 フォーク先のリポジトリ：https://github.com/manbo1123/freemarket_sample_65d.git
 
 ## Basic認証
